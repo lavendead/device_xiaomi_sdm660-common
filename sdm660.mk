@@ -281,7 +281,6 @@ PRODUCT_PACKAGES += \
     init.xiaomi.rc \
     init.xiaomi_parts.rc \
     ueventd.qcom.rc \
-    apex_metadata.rc
 
 # IPACM
 PRODUCT_PACKAGES += \
